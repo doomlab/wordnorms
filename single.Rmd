@@ -1,6 +1,6 @@
 ---
 ---
-
+  
 On this page, you will find information about our single word norms used in our projects. We have split our single and paired word norms into two separate databases to speed database processing time for the user. Single word norms (i.e. variables) are concept information that is only tied to a single concept, such as imaginability, concreteness, or number of phonemes. This dataset includes all cues, targets, and features from the Buchanan et al. semantic word-pair norms (2013) and our extension project, which can be found on [OSF](https://osf.io/cjyzw/) and [GitHub](https://github.com/doomlab/Word-Norms-2). When downloading the applications to run locally on RStudio, please be sure to download the dataset in the main [GitHub repository](https://github.com/doomlab/shiny-server/tree/master/lab).
 
 ## Variable Table
