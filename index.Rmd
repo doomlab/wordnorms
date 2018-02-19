@@ -3,6 +3,6 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+| [![Single Word Norms](single_words.jpg)](single.html)] | [![Word Pair Norms](double_words.jpg)](pairs.html)] | [![The Lab](lab.jpg)](lab.html)] |
 
-Word norms website will go here. 
+
