@@ -3,6 +3,19 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-| [![Single Word Norms](single_words.jpg)](single.html)] | [![Word Pair Norms](double_words.jpg)](pairs.html)] | [![The Lab](lab.jpg)](lab.html)] |
+<table padding=10px>
+<tr>
+<td>
+<a href="single.html"><img src="single_words.jpg" height=80%></a>
+</td>
 
+<td>
+<a href="pairs.html"><img src="double_words.jpg" height=80%></a>
+</td>
+
+<td>
+<a href="lab.html"><img src="lab.jpg" height=80%></a>
+</td>
+</tr>
+</table>
 
