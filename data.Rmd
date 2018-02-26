@@ -1,19 +1,19 @@
 ---
 ---
  
-## LAB: Linguistic Annotated Bibliography
+### LAB: Linguistic Annotated Bibliography
 
 - [OSF Page](https://osf.io/9bcws/)
 - [GitHub Repository](https://github.com/doomlab/Table-of-Doom)
 
-## Word Pair Norms (2013)
+### Word Pair Norms (2013)
 
 - Buchanan et al. (2013) paper: [DOCX](buchanan_2012_norms.docx), [PDF](http://www.aggieerin.com/pubs/buchanan%2012.pdf), [Springer](https://link.springer.com/article/10.3758%2Fs13428-012-0284-z#/page-1)
 - The original feature lists: [XLSX](feature_lists.xlsx)
 - Cosines A-J: [XLSX](cosine A_J.xlsx)
 - Cosines K-Z: [XLSX](cosine K_Z.xlsx)
 
-## Word Pair Norms (in progress)
+### Word Pair Norms (in progress)
 
 - [OSF Page](https://osf.io/cjyzw/)
 - [GitHub Repository](https://github.com/doomlab/Word-Norms-2) 

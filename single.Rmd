@@ -3,16 +3,16 @@
   
 On this page, you will find information about our single word norms used in our projects. We have split our single and paired word norms into two separate databases to speed database processing time for the user. Single word norms (i.e. variables) are concept information that is only tied to a single concept, such as imaginability, concreteness, or number of phonemes. This dataset includes all cues, targets, and features from the Buchanan et al. semantic word-pair norms (2013) and our extension project, which can be found on [OSF](https://osf.io/cjyzw/) and [GitHub](https://github.com/doomlab/Word-Norms-2). When downloading the applications to run locally on RStudio, please be sure to download the dataset in the main [GitHub repository](https://github.com/doomlab/shiny-server/tree/master/lab).
 
-## Variable Table
+### Variable Table
 
 You can view the complete variable table that lists the variables, their descriptions, min, max, mean, and standard deviation. Norms are taken from the University of South Florida Free Association Norms (Nelson, McEvoy, & Schreiber, 2004) and the English Lexicon Project (Balota et al., 2007).
 
 This [link](http://96.242.30.151:3838/lab/single_var_table) will take to the Shiny app that calculates the statistics based on the current dataset. Please contact us if the link or any others below are not loading. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/single_var_table) this app to run locally.
 
-## View and Search the Words
+### View and Search the Words
 
 You can use the [Shiny app](http://96.242.30.151:3838/lab/single_words/) provided to view all the words and their information. The top boxes in this datatable allow you to filter the columns for specific ranges you might be interested in. This app does sometimes load slowly, so please be patient. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/single_words) this app to run locally.
 
-## Download the Data
+### Download the Data
 
 You can download the csv file of the single word information [here](https://github.com/doomlab/shiny-server/blob/master/lab/single_word.csv).
