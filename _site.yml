@@ -9,7 +9,7 @@ navbar:
       href: pairs.html
     - text: "Data"
       href: data.html
-    - text: "The Lab"
+    - text: "The LAB"
       href: lab.html
     - text: "About"
       href: about.html
