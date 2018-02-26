@@ -7,7 +7,7 @@ On this page, you will find information about our paired word norms used in our 
 
 You can view the complete variable table that lists the variables, their descriptions, min, max, mean, and standard deviation. Norms are taken from the University of South Florida Free Association Norms (Nelson, McEvoy, & Schreiber, 2004), JCN semantic dictionary distance (Maki, McKinley, & Thompson, 2004; Maki, 2008), and LSA values (Landauer & Dumais, 1997).
 
-This [link](http://96.242.30.151:3838/lab/double_var_table) will take to the Shiny app that calculates the statistics based on the current dataset. Please contact us if the link or any others below are not loading. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/double_var_table) this app to run locally.
+This [link](http://96.242.30.151:3838/lab/double_var_table) will take you to the Shiny app that calculates the statistics based on the current dataset. Please contact us if the link or any others below are not loading. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/double_var_table) this app to run locally.
 
 ### View and Search the Words
 

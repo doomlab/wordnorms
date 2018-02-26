@@ -1,7 +1,29 @@
 ---
 ---
- 
-### LAB: Linguistic Annotated Bibliography
 
+*Purpose Statement*: In the era of big data, psycholinguistic research is flourishing with numerous publications advancing our knowledge of word characteristics and ways to study them. This article presents the Linguistic Annotated Bibliography (LAB) as a searchable web portal to quickly and easily access reliable database norms, related programs, and variable calculations. These publications were coded by language, number of stimuli, stimuli type (i.e., words, pictures, symbols), keywords (i.e., frequency, semantics, valence), and other useful information. This tool not only allows researchers to search for the specific type of stimuli needed for experiments, but also permits the exploration of publication trends across 100 years of research. Details about the portal creation and use are outlined, as well as various analyses of change in publication rates and keywords. In general, advances in computation power have allowed for the increase in dataset size in the recent decades, in addition to an increase in the number of linguistic variables provided in each publication.
 
+### Variable Table
 
+You can view the complete variable table that lists the variables, their descriptions, and relevant statistics. Please contact us if the link or any others below are not loading.
+
+* Stimuli - View the [Shiny App](http://96.242.30.151:3838/lab/stim_var_table) that calculates the statistics based on the current dataset. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/stim_var_table) this app to run locally.
+* Tags - View the [Shiny App](http://96.242.30.151:3838/lab/tag_var_table) that calculates the statistics based on the current dataset. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/tag_var_table) this app to run locally.
+
+###View and Search The Database
+
+You can use the [Shiny app](http://96.242.30.151:3838/lab/lab_table) provided to view all the publication entries and their information. Use the side bar to filter the dataset. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/lab_table) this app to run locally.
+
+###View the Frequency Statistics
+
+You can use the [Shiny app](http://96.242.30.151:3838/lab/frequencies) to view the frequencies of tags, stimuli, languages, and journals. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/frequencies) this app to run locally.
+
+###View the Yearly Statistics
+
+* Tags Per Year - View the [Shiny app](http://96.242.30.151:3838/lab/tag_per_year) or [download](https://github.com/doomlab/shiny-server/tree/master/lab/tag_per_year) to run locally.
+* Papers Per Year - View the [Shiny app](http://96.242.30.151:3838/lab/papers_per_year) or [download](https://github.com/doomlab/shiny-server/tree/master/lab/papers_per_year) to run locally.
+* Stimuli Per Year - View the [Shiny app](http://96.242.30.151:3838/lab/stimuli_per_year) or [download](https://github.com/doomlab/shiny-server/tree/master/lab/stimuli_per_year) to run locally.
+
+### Download the Data
+
+You can download the csv file of the LAB table information [here](https://github.com/doomlab/shiny-server/blob/master/lab/lab_table.csv).

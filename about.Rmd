@@ -1,5 +1,8 @@
 ---
 ---
  
-## About WordNorms.com
+### About WordNorms.com
 
+This website is coordinated by [Dr. Erin Buchanan](http://www.aggieerin.com) and her research team. You can send emails about the website to [the lab email](mailto:buchananlab@gmail.com).
+
+####Contributors
