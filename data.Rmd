@@ -1,6 +1,7 @@
 ---
 ---
- 
+<p>
+
 ### LAB: Linguistic Annotated Bibliography
 
 - [OSF Page](https://osf.io/9bcws/)
