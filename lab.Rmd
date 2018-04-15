@@ -17,6 +17,8 @@ You can view the complete variable table that lists the variables, their descrip
 
 You can use the [Shiny app](http://96.242.30.151:3838/lab/lab_table) provided to view all the publication entries and their information. Use the side bar to filter the dataset. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/lab_table) this app to run locally.
 
+Are we missing something? Please [email](mailto:buchananlab@gmail.com) us any information you find that is incorrect or missing. We do not assume this list is complete and would love to add more data to the LAB. 
+
 ###View the Frequency Statistics
 
 You can use the [Shiny app](http://96.242.30.151:3838/lab/frequencies) to view the frequencies of tags, stimuli, languages, and journals. [Download](https://github.com/doomlab/shiny-server/tree/master/lab/frequencies) this app to run locally.
