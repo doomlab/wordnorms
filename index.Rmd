@@ -6,7 +6,7 @@
 <table padding=10px>
 <tr>
 <td>
-<a href="single_words.html"><img src="single_words.jpg" height=80%></a>
+<a href="single.html"><img src="single_words.jpg" height=80%></a>
 </td>
 
 <td>
