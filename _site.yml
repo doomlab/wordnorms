@@ -4,7 +4,7 @@ navbar:
   title: "WordNorms.com"
   left:
     - text: "Single Words"
-      href: single.html
+      href: single_words.html
     - text: "Word Pairs"
       href: pairs.html
     - text: "Data"
