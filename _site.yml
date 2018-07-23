@@ -4,13 +4,13 @@ navbar:
   title: "WordNorms.com"
   left:
     - text: "Single Words"
-      href: single.html
+      href: single_words.html
     - text: "Word Pairs"
-      href: pairs.html
+      href: double_words.html
     - text: "Data"
       href: data.html
     - text: "The LAB"
-      href: lab.html
+      href: lab_table.html
     - text: "About"
       href: about.html
   right:

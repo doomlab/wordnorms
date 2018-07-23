@@ -6,15 +6,15 @@
 <table padding=10px>
 <tr>
 <td>
-<a href="single.html"><img src="single_words.jpg" height=80%></a>
+<a href="single_words.html"><img src="single_words.jpg" height=80%></a>
 </td>
 
 <td>
-<a href="pairs.html"><img src="double_words.jpg" height=80%></a>
+<a href="double_words.html"><img src="double_words.jpg" height=80%></a>
 </td>
 
 <td>
-<a href="lab.html"><img src="lab.jpg" height=80%></a>
+<a href="lab_table.html"><img src="lab.jpg" height=80%></a>
 </td>
 </tr>
 </table>

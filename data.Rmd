@@ -5,7 +5,8 @@
 ### LAB: Linguistic Annotated Bibliography
 
 - [OSF Page](https://osf.io/9bcws/)
-- [GitHub Repository](https://github.com/doomlab/Table-of-Doom)
+- [GitHub Repository Paper](https://github.com/doomlab/Table-of-Doom)
+- [GitHub Repository Shiny Apps](https://github.com/doomlab/shiny-server/tree/master/wn_lab)
 
 ### Word Pair Norms (2013)
 
@@ -17,5 +18,7 @@
 ### Word Pair Norms (in progress)
 
 - [OSF Page](https://osf.io/cjyzw/)
-- [GitHub Repository](https://github.com/doomlab/Word-Norms-2) 
+- [GitHub Repository Paper](https://github.com/doomlab/Word-Norms-2) 
+- [GitHub Repository Shiny Apps Single Words](https://github.com/doomlab/shiny-server/tree/master/wn_single)
+- [GitHub Repository Shiny Apps Word Pairs](https://github.com/doomlab/shiny-server/tree/master/wn_double)
 
